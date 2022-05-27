@@ -2,4 +2,4 @@
 
 Currently studying: Java☕, Spring🌸, Spring Cloud☁ and PHP.
 
-If u want to contact me, send me a mail salvi.delgado5@gmail.com :)
+If you want to contact me, send me a mail salvi.delgado5@gmail.com :)
