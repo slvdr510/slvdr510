@@ -72,7 +72,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/slvdr510/slvdr510/output/snake.svg" alt="Snake animation" />
-
-###
