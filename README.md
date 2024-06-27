@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2001<br>📚 Full-time student at University of Huelva<br>🎯 Goals: End the degree meanwhile I develop my own program ideas and solutions<br>🎲 Fun fact: I barely play League of Legends</p>
+<p align="left">✨ Creating bugs since 2001<br>📚 Full-time student at University of Huelva<br>🎯 Goals: End the degree meanwhile I develop my own program ideas and solutions</p>
 
 ###
 
