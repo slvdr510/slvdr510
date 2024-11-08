@@ -1,33 +1,34 @@
-<h1 align="left">Hey 👋🏻 What's up?</h1>
-
-###
-
-<p align="left">My name is Salvador and I'm a Web App Developer, from Spain.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2001<br>📚 Full-time student at University of Huelva<br>🎯 Goals: End the degree meanwhile I develop my own program ideas and solutions</p>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slvdr510&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+  <p>I'm Salvador, you can call me Salva.<br>nice to see you here~<br>o/</p>
 
-###
-
-<div align="center">
+  <br>
+  <details>
+    <summary>Studies 📚</summary>
+    <br><p>Studied Web App Development and<br>Microcomputer Systems & Local Networks</p>
+    <p>Now studying Computer Sciences<br>at University of Huelva, Spain</p>
+    <br>
+  </details>
   
+  <details>
+    <summary>Github Statistics ♾️</summary>
+    <br>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=slvdr510&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=1" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" /></p>
+    <br>
+  </details>
+  
+  <details>
+    <summary>My Signature 🖋️</summary><br>
+    
     ╔█████████  ██╗  ██╗       ██╗ ██████╗   ███████╗   █████████    ██   ███████ 
     ██══════╗   ██║   ██╗     ██╗  ██    ██║  ██╔══██║  ██         █ ██  ██     ██
      ████████   ██║    ██╗   ██╗   ██    ██║  ██████╝   █████████    ██  ██     ██
      ╚══════██  ██║     ██╗ ██╗    ██    ██║  ██╔══██╗         ██    ██  ██     ██
     █████████╝  ███████╗  ███╝     ██████╝    ██║  ██║  ██     ██    ██  ██     ██
     ╚═══════╝   ╚══════╝  ╚═╝      ╚════╝     ╚═╝  ╚═╝    █████      ██   ███████ 
+  <br>
+  </details>
+
+  <br>[YouTube Channel 🖥](https://www.youtube.com/@slvdr510/videos)<br>where I explain my code
   
 </div>
