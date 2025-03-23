@@ -4,8 +4,10 @@
   <br>
   <details>
     <summary>Studies 📚</summary>
-    <br><p>Studied Web App Development and<br>Microcomputer Systems & Local Networks</p>
-    <p>Now studying Computer Sciences<br>at University of Huelva, Spain</p>
+      </br>
+      <p>Microcomputer Systems & Local Networks</p>  
+      <p>Web App Development</p>
+      <p>Computing Sciences<br>at University of Huelva, Spain</p>
     <br>
   </details>
   
