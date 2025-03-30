@@ -2,8 +2,12 @@
   
   </br>
   
-  <p style="font-size: 1.2em; border-bottom: none; display: flex; text-decoration: none;">nice to see you here~<br>o/</p>
+  <span style="font-size: 5em; border-bottom: none; display: flex; text-decoration: none;">nice to see you here~<br>o/</span>
   
+  <a href="https://www.youtube.com/@slvdr510" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
+  </a>
+
   </br>
   </br>
 
