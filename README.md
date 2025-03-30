@@ -1,39 +1,14 @@
 <div align="center">
   
   </br>
-  <h1 style="border-bottom: none; display: inline;">This is my github profile.<br>nice to see you here~<br>o/</h1>
-  </br>
-  <div>
-    <a href="https://www.youtube.com/@slvdr510" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
-    </a>
-  </div>
-
-  <details>
-    <summary><h2 style="border-bottom: none; display: inline;">Signature 🖋️</h2></summary>
-    <div  style="width: 36.5%; border-radius: 5px">
-    <br>
+  <h1 style="border-bottom: none; display: inline;">nice to see you here~<br>o/</h1>
     
-    ╔█████████  ██╗  ██╗       ██╗ ██████╗   ███████╗   █████████    ██   ███████ 
-    ██══════╗   ██║   ██╗     ██╗  ██    ██║  ██╔══██║  ██         █ ██  ██     ██
-     ████████   ██║    ██╗   ██╗   ██    ██║  ██████╝   █████████    ██  ██     ██
-     ╚══════██  ██║     ██╗ ██╗    ██    ██║  ██╔══██╗         ██    ██  ██     ██
-    █████████╝  ███████╗  ███╝     ██████╝    ██║  ██║  ██     ██    ██  ██     ██
-    ╚═══════╝   ╚══════╝  ╚═╝      ╚════╝     ╚═╝  ╚═╝    █████      ██   ███████ 
-  </div>
-  </br>
-  </details>
+  <img src="https://raw.githubusercontent.com/slvdr510/slvdr510/output/snake.svg" alt="Snake animation" />
 
-  <details>
-    <summary><h2 style="border-bottom: none; display: inline;">History 📅</h2></summary>
-    <br>
-    <img src="https://raw.githubusercontent.com/slvdr510/slvdr510/output/snake.svg" alt="Snake animation" />
-    </br>
-  </details>
+  </br></br>
 
-  <details>
-  <summary><h2 style="border-bottom: none; display: inline;">Languages 👨🏻‍💻</h2></summary>
-    <br>
+  <h2 style="border-bottom: none; display: inline;">Languages 👨🏻‍💻</h2>
+    </br></br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
     <img width="21" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -82,20 +57,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
     <img width="21" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-    </br></br>
-  </details>
-
-  <details>
-    <summary><h2 style="border-bottom: none; display: inline; ">Studies 📚</h2></summary>
+    
+  </br></br>
+  <h2 style="border-bottom: none; display: inline; ">Github Statistics ♾️</h2>
       </br>
-      <p>Microcomputer Systems & Local Networks</p>  
-      <p>Web App Development</p>
-      <p>Computing Sciences<br>at University of Huelva, Spain</p>
-    <br>
-  </details>
-
-  <details>
-    <summary><h2 style="border-bottom: none; display: inline; ">Github Statistics ♾️</h2></summary>
       </br>
       <div style="width: 36.5%; background-color: #282A36; border-radius: 5px; margin: -5px 0">
         <img src="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"/>
@@ -112,6 +77,24 @@
           alt="streak graph" 
           style="width: 100%;" />
       </div>
-  </details>
 
+  </br></br>
+
+  <h2 style="border-bottom: none; display: inline; ">Studies 📚</h2></br>
+      </br>
+      <p>Microcomputer Systems & Local Networks</p>  
+      <p>Web App Development</p>
+      <p>Computing Sciences<br>at University of Huelva, Spain</p>
+
+  </br></br>
+    
+    ╔█████████  ██╗  ██╗       ██╗ ██████╗   ███████╗   █████████    ██   ███████ 
+    ██══════╗   ██║   ██╗     ██╗  ██    ██║  ██╔══██║  ██         █ ██  ██     ██
+     ████████   ██║    ██╗   ██╗   ██    ██║  ██████╝   █████████    ██  ██     ██
+     ╚══════██  ██║     ██╗ ██╗    ██    ██║  ██╔══██╗         ██    ██  ██     ██
+    █████████╝  ███████╗  ███╝     ██████╝    ██║  ██║  ██     ██    ██  ██     ██
+    ╚═══════╝   ╚══════╝  ╚═╝      ╚════╝     ╚═╝  ╚═╝    █████      ██   ███████ 
+  </div>
+  </br>
+  
 </div>
