@@ -1,15 +1,13 @@
 <div align="center">
   
   </br>
-  <h1 style="border-bottom: none;">This is my github profile.<br>nice to see you here~<br>o/</h1>
-  
+  <h1 style="border-bottom: none; display: inline;">This is my github profile.<br>nice to see you here~<br>o/</h1>
+  </br>
   <div>
     <a href="https://www.youtube.com/@slvdr510" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
     </a>
   </div>
-
-  </br>
 
   <details>
     <summary><h2 style="border-bottom: none; display: inline;">Signature 🖋️</h2></summary>
@@ -26,16 +24,12 @@
   </br>
   </details>
 
-  </br>
-
   <details>
     <summary><h2 style="border-bottom: none; display: inline;">History 📅</h2></summary>
     <br>
     <img src="https://raw.githubusercontent.com/slvdr510/slvdr510/output/snake.svg" alt="Snake animation" />
     </br>
   </details>
-
-  </br>
 
   <details>
   <summary><h2 style="border-bottom: none; display: inline;">Languages 👨🏻‍💻</h2></summary>
@@ -91,8 +85,6 @@
     </br></br>
   </details>
 
-  </br>
-
   <details>
     <summary><h2 style="border-bottom: none; display: inline; ">Studies 📚</h2></summary>
       </br>
@@ -101,10 +93,6 @@
       <p>Computing Sciences<br>at University of Huelva, Spain</p>
     <br>
   </details>
-
-  
-
-</br>
 
   <details>
     <summary><h2 style="border-bottom: none; display: inline; ">Github Statistics ♾️</h2></summary>
