@@ -1,14 +1,19 @@
 <div align="center">
   
   </br>
-  <h1 style="border-bottom: none; display: inline;">nice to see you here~<br>o/</h1>
-    
+  
+  <p style="font-size: 1.2em; border-bottom: none; display: flex; text-decoration: none;">nice to see you here~<br>o/</p>
+  
+  </br>
+  </br>
+
+  <h2 style="border-bottom: none; display: inline;">Activity 🐍</h2>
   <img src="https://raw.githubusercontent.com/slvdr510/slvdr510/output/snake.svg" alt="Snake animation" />
 
-  </br></br>
+  </br>
+  </br>
 
   <h2 style="border-bottom: none; display: inline;">Languages 👨🏻‍💻</h2>
-    </br></br>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
     <img width="21" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -58,10 +63,11 @@
     <img width="21" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
     
-  </br></br>
+  </br>
+  </br>
+  </br>
+  
   <h2 style="border-bottom: none; display: inline; ">Github Statistics ♾️</h2>
-      </br>
-      </br>
       <div style="width: 36.5%; background-color: #282A36; border-radius: 5px; margin: -5px 0">
         <img src="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slvdr510&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
@@ -78,15 +84,16 @@
           style="width: 100%;" />
       </div>
 
-  </br></br>
+  </br>
+  </br>
 
-  <h2 style="border-bottom: none; display: inline; ">Studies 📚</h2></br>
-      </br>
+  <h2 style="border-bottom: none; display: inline; ">Studies 📚</h2>
       <p>Microcomputer Systems & Local Networks</p>  
       <p>Web App Development</p>
       <p>Computing Sciences<br>at University of Huelva, Spain</p>
 
   </br></br>
+  <h2 style="border-bottom: none; display: inline; ">My Signature 🖋️</h2>
     
     ╔█████████  ██╗  ██╗       ██╗ ██████╗   ███████╗   █████████    ██   ███████ 
     ██══════╗   ██║   ██╗     ██╗  ██    ██║  ██╔══██║  ██         █ ██  ██     ██
