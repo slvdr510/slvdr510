@@ -12,7 +12,7 @@
   </br>
 
   <h2 style="border-bottom: none; display: inline;">Activity 🐍</h2>
-  <img src="https://raw.githubusercontent.com/slvdr510/slvdr510/output/snake.svg" alt="Snake animation" style="margin: -40px 0;"/>
+  <img src="https://raw.githubusercontent.com/slvdr510/slvdr510/output/snake.svg" alt="Snake animation"/>
 
   </br>
   </br>
