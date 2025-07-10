@@ -1,22 +1,48 @@
 <div align="center">
   
-  </br>
   
-  <span style="font-size: 5em; border-bottom: none; display: flex; text-decoration: none;">nice to see you here~<br>o/</span>
+  <h2 style="border-bottom: none; display: inline; ">Github Statistics ♾️</h2>
+  <div style="width: 36.5%; background-color: #282A36; border-radius: 5px; margin: -5px 0">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=slvdr510&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com?user=slvdr510&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=5">
+      <img src="https://streak-stats.demolab.com?user=slvdr510&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5"
+      height="150"
+      alt="streak graph"
+      style="width: 100%;" />
+    </picture>
+  </div>
   
-  <a href="https://www.youtube.com/@slvdr510" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
-  </a>
-
+  <div style="width: 36.5%; background-color: #282A36; border-radius: 5px; margin: -5px 0">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app?username=slvdr510&no-bg=false&no-frame=true&row=1&column=4&theme=dracula&margin-w=10">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-profile-trophy.vercel.app?username=slvdr510&no-bg=false&no-frame=true&row=1&column=4&theme=flat&margin-w=10">
+      <img src="https://github-profile-trophy.vercel.app?username=slvdr510&no-bg=false&no-frame=true&row=1&column=4&theme=dracula&margin-w=10" height="150" alt="trophy graph"/>
+    </picture>
+  </div>
+  
+  <div style="width: 36.5%; background-color: #282A36; border-radius: 5px; margin: -5px 0">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=default&locale=en&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"/>
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=slvdr510&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true">
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=slvdr510&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slvdr510&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"/>
+    </picture>
+  </div>
+  
   </br>
-  </br>
+   
+  <h2 style="border-bottom: none; display: inline; ">Studies 📚</h2>
+      <p>Microcomputer Systems & Local Networks</p>  
+      <p>Web App Development</p>
+      <p>Right now doing Computing Sciences<br>at University of Huelva, Spain</p>
 
-  <h2 style="border-bottom: none; display: inline;">Activity 🐍</h2>
-  <img src="https://raw.githubusercontent.com/slvdr510/slvdr510/output/snake.svg" alt="Snake animation"/>
-
-  </br>
-  </br>
-
+  </br></br>
+  
   <h2 style="border-bottom: none; display: inline;">Languages 👨🏻‍💻</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
     <img width="21" />
@@ -41,7 +67,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
     <img width="21" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-    </br>
     <img width="21" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
     <img width="21" />
@@ -67,36 +92,8 @@
     <img width="21" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
     
-  </br>
-  </br>
-  </br>
-  
-  <h2 style="border-bottom: none; display: inline; ">Github Statistics ♾️</h2>
-      <div style="width: 36.5%; background-color: #282A36; border-radius: 5px; margin: -5px 0">
-        <img src="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slvdr510&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-      </div>
-      </br>
-      <div style="width: 36.5%; background-color: #282A36; border-radius: 5px; margin: -5px 0">
-        <img src="https://github-profile-trophy.vercel.app?username=slvdr510&no-bg=false&no-frame=true&row=1&column=4&theme=dracula&margin-w=10" height="150" alt="trophy graph"  />
-      </div>
-      </br>
-      <div style="width: 36.5%; background-color: #282A36; border-radius: 5px; margin: -5px 0">
-          <img src="https://streak-stats.demolab.com?user=slvdr510&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5" 
-          height="150" 
-          alt="streak graph" 
-          style="width: 100%;" />
-      </div>
-
-  </br>
-  </br>
-
-  <h2 style="border-bottom: none; display: inline; ">Studies 📚</h2>
-      <p>Microcomputer Systems & Local Networks</p>  
-      <p>Web App Development</p>
-      <p>Computing Sciences<br>at University of Huelva, Spain</p>
-
   </br></br>
+  
   <h2 style="border-bottom: none; display: inline; ">My Signature 🖋️</h2>
     
     ╔█████████  ██╗  ██╗       ██╗ ██████╗   ███████╗   █████████    ██   ███████ 
@@ -106,6 +103,7 @@
     █████████╝  ███████╗  ███╝     ██████╝    ██║  ██║  ██     ██    ██  ██     ██
     ╚═══════╝   ╚══════╝  ╚═╝      ╚════╝     ╚═╝  ╚═╝    █████      ██   ███████ 
   </div>
+  
   </br>
   
 </div>
