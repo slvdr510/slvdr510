@@ -16,6 +16,7 @@
           <img src="https://github-profile-trophy.vercel.app?username=slvdr510&no-bg=false&no-frame=true&row=1&column=4&theme=dracula&margin-w=10" height="150" alt="trophy graph"/>
         </picture>
       </div>
+      </br>
       <div style="width: 100%; background-color: #282A36; border-radius: 5px; margin: 5px 0;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true">
