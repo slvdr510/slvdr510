@@ -1,5 +1,16 @@
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
+    <td colspan="2" valign="top" align="center">
+    
+    ╔█████████  ██╗  ██╗       ██╗ ██████╗   ███████╗   █████████    ██   ███████ 
+    ██══════╗   ██║   ██╗     ██╗  ██    ██║  ██╔══██║  ██         █ ██  ██     ██
+     ████████   ██║    ██╗   ██╗   ██    ██║  ██████╝   █████████    ██  ██     ██
+     ╚══════██  ██║     ██╗ ██╗    ██    ██║  ██╔══██╗         ██    ██  ██     ██
+    █████████╝  ███████╗  ███╝     ██████╝    ██║  ██║  ██     ██    ██  ██     ██
+    ╚═══════╝   ╚══════╝  ╚═╝      ╚════╝     ╚═╝  ╚═╝    █████      ██   ███████ 
+  
+  </tr>
+  <tr>
     <td width="50%" valign="top" align="center">
       <h2 style="border-bottom: none; display: inline; ">Github Statistics ♾️</h2>
       <div style="width: 100%; background-color: #282A36; border-radius: 5px; margin: 5px 0;">
@@ -16,7 +27,6 @@
           <img src="https://github-profile-trophy.vercel.app?username=slvdr510&no-bg=false&no-frame=true&row=1&column=4&theme=dracula&margin-w=10" height="150" alt="trophy graph"/>
         </picture>
       </div>
-      </br>
       <div style="height: 100%;  background-color: #282A36; border-radius: 5px; margin: 5px 0;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true">
@@ -70,17 +80,5 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
       </div>
     </td>
-  </tr>
-
-  <tr>
-    <td colspan="2" valign="top" align="center">
-    
-    ╔█████████  ██╗  ██╗       ██╗ ██████╗   ███████╗   █████████    ██   ███████ 
-    ██══════╗   ██║   ██╗     ██╗  ██    ██║  ██╔══██║  ██         █ ██  ██     ██
-     ████████   ██║    ██╗   ██╗   ██    ██║  ██████╝   █████████    ██  ██     ██
-     ╚══════██  ██║     ██╗ ██╗    ██    ██║  ██╔══██╗         ██    ██  ██     ██
-    █████████╝  ███████╗  ███╝     ██████╝    ██║  ██║  ██     ██    ██  ██     ██
-    ╚═══════╝   ╚══════╝  ╚═╝      ╚════╝     ╚═╝  ╚═╝    █████      ██   ███████ 
-  
   </tr>
 </table>
