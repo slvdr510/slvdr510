@@ -17,7 +17,7 @@
         </picture>
       </div>
       </br>
-      <div style="width: 100%; background-color: #282A36; border-radius: 5px; margin: 5px 0;">
+      <div style="height: 100%;  background-color: #282A36; border-radius: 5px; margin: 5px 0;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true">
           <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=default&locale=en&hide_border=true">
