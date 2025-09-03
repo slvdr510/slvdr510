@@ -4,28 +4,19 @@
       <h2 style="border-bottom: none; display: inline; ">Github Statistics ♾️</h2>
       <div style="width: 100%; background-color: #282A36; border-radius: 5px; margin: 5px 0;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=slvdr510&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5">
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com?user=slvdr510&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=5">
-          <img src="https://streak-stats.demolab.com?user=slvdr510&locale=en&mode=weekly&theme=dracula&hide_border=10" alt="streak graph" style="width: 100%;" />
-        </picture>
-      </div>
-      <div style="width: 100%; background-color: #282A36; border-radius: 5px; margin: 5px 0;">
-        <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app?username=slvdr510&no-bg=false&no-frame=true&row=1&column=4&theme=dracula&margin-w=10">
           <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-profile-trophy.vercel.app?username=slvdr510&no-bg=false&no-frame=true&row=1&column=4&theme=flat&margin-w=10">
-          <img src="https://github-profile-trophy.vercel.app?username=slvdr510&no-bg=false&no-frame=true&row=1&column=4&theme=dracula&margin-w=10" height="150" alt="trophy graph"/>
-        </picture>
-      </div>
-      <div style="width: 100%;  background-color: #282A36; border-radius: 5px; margin: 5px 0;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true">
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=default&locale=en&hide_border=true">
-          <img src="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"/>
+          <img src="https://github-profile-trophy.vercel.app?username=slvdr510&no-bg=false&no-frame=true&row=1&column=4&theme=dracula&margin-w=10" alt="trophy graph"/>
         </picture>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=slvdr510&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true">
           <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=slvdr510&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slvdr510&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="200" alt="languages graph"/>
+        </picture>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true">
+          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=default&locale=en&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api?username=slvdr510&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"/>
         </picture>
       </div>
     </td>
