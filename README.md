@@ -24,7 +24,7 @@
       <h2 style="border-bottom: none; display: inline; ">Studies 📚</h2>
       <p>Microcomputer Systems & Local Networks</p>
       <p>Web App Development</p>
-      <p>Right now doing Computing Sciences<br>at University of Huelva, Spain</p>
+      <p>Actually studying Computing Sciences<br>at University of Huelva, Spain</p>
       <br>
       <h2 style="border-bottom: none; display: inline; ">Videos 🎥</h2>
       <p>Here I explain the tools I create</p>
