@@ -22,7 +22,7 @@
     </td>
     <td width="50%" valign="top" align="center">
       <h2 style="border-bottom: none; display: inline; ">Studies 📚</h2>
-      <p>Microcomputer Systems & Local Networks</p>
+      <p>Microcomputer Systems & Networks</p>
       <p>Web App Development</p>
       <p>Actually studying Computing Sciences<br>at University of Huelva, Spain</p>
       <br>
