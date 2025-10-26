@@ -27,7 +27,7 @@
       <p>Actually studying Computing Sciences<br>at University of Huelva, Spain</p>
       <br>
       <h2 style="border-bottom: none; display: inline; ">Videos 🎥</h2>
-      <p>Here I explain the tools I create</p>
+      <p>Here I talk about tools I've created</p>
       <a href="https://www.youtube.com/@slvdr510" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
       </a>
