@@ -32,7 +32,7 @@
         <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="35" alt="youtube logo"  />
       </a>
       <br><br>
-      <h2 style="border-bottom: none; display: inline; ">Languages 👨🏻‍💻</h2>
+      <h2 style="border-bottom: none; display: inline; ">Tech Stack 👨🏻‍💻</h2>
       <div style="text-align: center;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
