@@ -19,7 +19,7 @@
       <h2 style="border-bottom: none; display: inline; ">Studies 📚</h2>
       <p>Microcomputer Systems & Networks</p>
       <p>Web App Development</p>
-      <p>Actually studying Computing Sciences<br>at University of Huelva, Spain</p>
+      <p>Actually studying Computer Science<br>at University of Huelva, Spain</p>
       <br>
       <h2 style="border-bottom: none; display: inline; ">Videos 🎥</h2>
       <p>Here I talk about tools I've created</p>
