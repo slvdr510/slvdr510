@@ -4,11 +4,6 @@
       <h2 style="border-bottom: none; display: inline; ">Github Statistics ♾️</h2>
       <div style="width: 100%; background-color: #282A36; border-radius: 5px; margin: 5px 0;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app?username=slvdr510&no-bg=false&no-frame=true&row=1&column=4&theme=dracula&margin-w=10">
-          <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-profile-trophy.vercel.app?username=slvdr510&no-bg=false&no-frame=true&row=1&column=4&theme=flat&margin-w=10">
-          <img src="https://github-profile-trophy.vercel.app?username=slvdr510&no-bg=false&no-frame=true&row=1&column=4&theme=dracula&margin-w=10" alt="trophy graph"/>
-        </picture>
-        <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=slvdr510&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true">
           <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=slvdr510&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=slvdr510&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="200" alt="languages graph"/>
